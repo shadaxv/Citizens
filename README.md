@@ -11,6 +11,10 @@ Basic list of citizens written in C#
     
 ## Release History
 
+* 1.0.3
+    * Release
+* 1.0.2
+    * Added comments, translated the entire application into English, refactored the application
 * 1.0.1
     * Added README.md
 * 1.0.0
