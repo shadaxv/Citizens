@@ -1,5 +1,5 @@
 # Citizens
-Basic list of citizens written in C#
+Basic list of citizens written in C# (Shows the census, adds new citizens) 
 
 ## Used technologies and tools
 
