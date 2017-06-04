@@ -11,8 +11,9 @@ namespace Citizens
         static void Main(string[] args)
         {
             string horizontalLine = new string('═', 60);
+            string version = "v. 1.0.3";
             Console.WriteLine("{0}{1}", Environment.NewLine, horizontalLine);
-            Console.WriteLine("══════════════════════  Citizens.exe  ══════════════════════");
+            Console.WriteLine("════════════════  Citizens.exe - {0}  ═════════════════", version);
             Console.WriteLine("{1}{0}", Environment.NewLine, horizontalLine);
             Citizens.ShowCitizens(0);
         }
